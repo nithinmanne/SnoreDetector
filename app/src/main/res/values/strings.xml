@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SnoreDetector</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="not_snoring">Not Snoring</string>
+    <string name="snoring">Snoring</string>
 </resources>

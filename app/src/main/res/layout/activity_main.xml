@@ -22,6 +22,37 @@
             android:layout_alignParentStart="true"
             android:layout_marginBottom="27dp" />
 
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="79dp"
+            android:text="@string/not_snoring" />
+
+        <Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="55dp"
+            android:onClick="start"
+            android:text="@string/start"
+            android:layout_marginStart="30dp"
+            android:layout_above="@+id/graph"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:id="@+id/stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="stop"
+            android:text="@string/stop"
+            android:visibility="visible"
+            android:layout_marginEnd="29dp"
+            android:layout_alignTop="@+id/start"
+            android:layout_alignParentEnd="true" />
+
 
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
