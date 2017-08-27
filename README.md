@@ -8,7 +8,20 @@ This app was built using [Android Studio 3.0](https://developer.android.com/stud
 
 Ph No. +91-7076607344
 
+## Screenshot:
+
+![1](Screenshots/1.png)
+
+
+![2](Screenshots/2.png)
+
+
+!3](Screenshots/3.png)
+
+
 ## Dependencies Used
+[GraphView 4.2.1](http://www.android-graphview.org/)
+>https://mvnrepository.com/artifact/com.jjoe64/graphview/4.2.1
 
 ## Author
 
