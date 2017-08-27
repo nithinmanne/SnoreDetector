@@ -1,4 +1,4 @@
-# SnoreDetector [![Build Status](https://travis-ci.com/nithinmanne/SnoreDetector.svg?token=qkM8xJGEEgqsq7NrzJ3U&branch=master)](https://travis-ci.com/nithinmanne/SnoreDetector)
+# SnoreDetector [![Build Status](https://travis-ci.org/nithinmanne/SnoreDetector.svg?branch=master)](https://travis-ci.org/nithinmanne/SnoreDetector)
 
 This repository contains the source code for the Snore Detector (Part 3).
 
